@@ -3,3 +3,7 @@
 int main(){
     std::cout << "Hello World" << std::endl;
 }
+
+/*output:
+Hello World
+*/
